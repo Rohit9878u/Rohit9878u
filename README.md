@@ -109,17 +109,11 @@ MERN      ███████░░░░░░░░░ 50%
 
 ---
 
-# 🐍 GitHub Contribution Snake
+<!-- Snake Game Repo View -->
 
-<p align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rohit9878u/Rohit9878u/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rohit9878u/Rohit9878u/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Rohit9878u/Rohit9878u/output/github-contribution-grid-snake.svg">
-</picture>
-
-</p>
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
