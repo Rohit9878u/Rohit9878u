@@ -46,7 +46,8 @@
 ## 🔥 LeetCode Stats
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/Rohit046?theme=dark&font=Baloo&ext=contest"/>
+<img src="https://leetcard.jacoblin.cool/Rohit0i8
+?theme=dark&font=Baloo&ext=contest"/>
 </p>
 
 ## 📊 LeetCode Heatmap
