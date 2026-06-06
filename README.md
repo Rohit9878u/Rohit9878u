@@ -50,31 +50,7 @@
 ?theme=dark&font=Baloo&ext=contest"/>
 </p>
 
-## 📊 LeetCode Heatmap
 
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/Rohit0i8?ext=heatmap"/>
-</p>
-
-## 🏆 Codeforces Stats
-
-<p align="center">
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=Rohit0i8&theme=github_dark"/>
-</p>
-
-<p align="center">
-<img src="https://codeforces-readme-stats.vercel.app/api/chart?username=Rohit0i8"/>
-</p>
-
----
-
-# 🎯 DSA Progress
-
-Java      ███████████░░░░░ 70%  
-C++       █████████░░░░░░░ 60%  
-Python    ████████████░░░░ 75%  
-DSA       █████████████░░░ 80%  
-MERN      ███████░░░░░░░░░ 50%
 
 ---
 
